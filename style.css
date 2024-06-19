@@ -1,0 +1,13 @@
+#result {
+	max-height: 200px;
+	white-space: pre-wrap;
+}
+
+#copy-button {
+	cursor: pointer;
+	transition: color 0.2s;
+}
+
+#copy-button:hover {
+	color: #4a5568; /* Darker gray */
+}
